@@ -1,0 +1,45 @@
+References/Tutorials/Resources: 
+    
+Youtube tut: 
+    https://www.youtube.com/playlist?list=PLkzTGSu0rKpb5cypnWZA5gUeIusWqf8sR
+
+enumerate: 
+    https://pythonexamples.org/python-enumerate-a-list/                  
+    https://stackoverflow.com/questions/3303608/how-to-enumerate-a-range-of-numbers-starting-at-1
+
+while: 
+    https://pythonexamples.org/python-while-loop-example/
+
+break: 
+    https://pythonexamples.org/python-break/
+
+sum: 
+    https://www.programiz.com/python-programming/methods/built-in/sum
+
+locale: 
+    https://bobbyhadz.com/blog/python-format-number-thousands-separator-2-decimals
+
+random: 
+    https://www.programiz.com/python-programming/examples/random-number
+
+create file: 
+    https://www.softwaretestinghelp.com/python/input-output-python-files/#2_Reading_Data_from_the_File
+
+list of tuples: 
+    sp pdf 
+    https://www.askpython.com/python/list/python-list-of-tuples
+
+tabulate tables: 
+    https://www.youtube.com/watch?v=Smf68icE_as&t=289s&ab_channel=NeuralNine
+    'pip install tabulate' / https://pypi.org/project/tabulate/
+
+convert a list of tuples into dictionary:
+    https://www.geeksforgeeks.org/python-convert-a-list-of-tuples-into-dictionary/
+    https://www.tutorialspoint.com/list-of-tuples-to-dictionary-conversion-in-python
+    https://bobbyhadz.com/blog/python-convert-list-of-tuples-to-dictionary
+    https://statisticsglobe.com/convert-list-tuples-dictionary-python
+    https://stackoverflow.com/questions/6522446/list-of-tuples-to-dictionary/6522469#6522469
+
+
+Type checker to check if my list of tuples in a list is converted into a dictionary
+    https://www.tutorialspoint.com/python/dictionary_type.htm
